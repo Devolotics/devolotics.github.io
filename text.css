@@ -924,6 +924,10 @@ section
 	}
 }
   
+.center {
+	background: rgba(255, 255, 255, 0);
+}
+
 .table
 	{
 		display: table;
