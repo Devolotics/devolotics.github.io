@@ -122,11 +122,6 @@ ol li a
 	opacity: 1;
 }
 
-.sponsorlink
-	{
-	text-decoration: underline;
-	}
-
 .fade-in h2
 	{
 	font-size: 40px;
@@ -1257,3 +1252,9 @@ ul{
 	width: 100%;
 }
 }
+
+
+.sponsorlink
+	{
+	text-decoration: underline;
+	}
