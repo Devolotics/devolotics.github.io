@@ -1,7 +1,10 @@
-html
-	{
+html {
 	scroll-behavior: smooth;
-	}
+}
+
+img {
+    object-fit: cover;
+}
 
 body 
 	{
