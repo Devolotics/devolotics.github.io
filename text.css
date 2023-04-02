@@ -2,10 +2,6 @@ html {
 	scroll-behavior: smooth;
 }
 
-img {
-    object-fit: cover;
-}
-
 body 
 	{
 	margin: 0;
